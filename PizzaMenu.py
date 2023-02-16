@@ -1,4 +1,4 @@
-class Pizza:
+class PizzaMenu:
     '''
     Fields: toppings (listof Str), crust(Str), sauce (Str) price (Float)
     '''
